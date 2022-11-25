@@ -1,6 +1,6 @@
 FROM openjdk
 
-WORKDIR /task1_os2
+WORKDIR /application
 
 COPY Abdo.java .
 
